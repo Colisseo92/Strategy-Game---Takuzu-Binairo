@@ -1,0 +1,7 @@
+QToolTip { 
+    background-color: rgba(131, 149, 167,0.3); 
+    color: white; 
+    border: %border-size%px solid %border-color%;
+    font-size: 20px;
+    opacity: 0;
+}

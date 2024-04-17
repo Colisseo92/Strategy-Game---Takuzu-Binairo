@@ -1,0 +1,10 @@
+QWidget{
+    background-color: %background-color%;
+    color: white;
+    border: 3px solid %border-color%;
+    border-radius: 15px;
+    padding: 15px 25px;
+    font-size: 30px;
+    letter-spacing: 5px;
+    font-weight: bold;
+}
