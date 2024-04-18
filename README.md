@@ -16,6 +16,9 @@ Reproduction du jeu du Takuzu.
 
 - [@Colisseo92](https://github.com/Colisseo92)
 
+## Tech Stack
+
+Projet réalisé en Python avec la librairie graphique PyQT5.
 
 ## Screenshots
 Fenêtre de début de partie.
@@ -36,7 +39,5 @@ Si les numéros que vous avez choisis ne respectent pas les règles, la ligne ou
 Vous pouvez aussi voir la résolution d'une grille à partir de zéro à partir du menu de solution.
 ![App Screenshot](https://github.com/Colisseo92/Strategy-Game---Takuzu-Binairo/blob/main/preview_img/solving_window.png)
 
-## Tech Stack
 
-Projet réalisé en Python avec la librairie graphique PyQT5.
 
